@@ -10,7 +10,7 @@ The following packages are included in *pyomo_community*:
 
 ## Integration Tests
 
-Package | Development | PyPI | Conda
+Package | Development Branch | PyPI | Conda
 --------|---------------|------|------
 PAO | [![Pyomo Checks - GitHub Master](https://github.com/pyomocommunity/pao/workflows/pyomo-checks/master/badge.svg)](https://github.com/pyomocommunity/pao/actions) | [![Pyomo Checks - PyPI](https://github.com/pyomocommunity/pao/workflows/pyomo-checks/pypi/badge.svg)](https://github.com/pyomocommunity/pao/actions) | [![Pyomo Checks - Conda](https://github.com/pyomocommunity/pao/workflows/pyomo-checks/conda/badge.svg)](https://github.com/pyomocommunity/pao/actions)
 
