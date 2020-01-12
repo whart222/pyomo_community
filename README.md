@@ -4,9 +4,11 @@ This is a python meta-package for the PyomoCommunity distribution.  Note that th
 
 ## Packages
 
-The following packages are currently included in **pyomo_community**:
+The following table describes the packages that are currently included in **pyomo_community**.  Note that these packages are not required to be developed within the PyomoCommunity GitHub repository.
 
-* pao
+Package | Repository URL
+--------|---------------
+PAO | https://github.com/pyomocommunity/pao
 
 ## Integration Tests
 
