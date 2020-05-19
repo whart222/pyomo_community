@@ -1,10 +1,10 @@
 # pyomo_community
 
-This is a python meta-package for the PyomoCommunity distribution.  Note that this package is currently being setup, so the following is *DRAFT* documentation.
+This is a python meta-package for the PyomoCommunity distribution.
 
 ## Packages
 
-The following table describes the packages that are currently included in **pyomo_community**.  Note that these packages are not required to be developed within the PyomoCommunity GitHub repository.
+The following table describes the packages that are currently included in **pyomo_community**.
 
 Package | Repository URL
 --------|---------------
